@@ -1,74 +1,167 @@
-<h1 align="center">Hi there, I'm N. Dhivyabharathi 👋</h1> <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | ☁️ AWS Cloud Learner</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps;Exploring+AI-powered+solutions;Learning+AWS+Cloud+every+day;Currently+building+VisionSpeak+AI" alt="Typing SVG" /> </p> <p align="center"> <a href="https://linkedin.com/in/dhivyabharathi-n"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:dhivyapillai2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://dhivyan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://github.com/DhivyabharathiCSE"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
-👩‍💻 About Me
-🎓 B.E. Computer Science Engineering (2023–2027) — V.S.B Engineering College, Karur — CGPA: 7.9
-💻 Full Stack Developer passionate about building scalable, real-world web applications
-🤖 Deeply interested in Artificial Intelligence & Machine Learning
-☁️ Currently learning AWS Cloud, System Design, Spring Security & Docker
-🌱 Currently building VisionSpeak AI — a smart vision assistant for the visually impaired
-💬 Ask me about Java, React.js, Spring Boot, Python, Flask, MySQL, REST APIs
-📫 Reach me at dhivyapillai2005@gmail.com
-🛠️ Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DB33F&height=220&section=header&text=Dhivyabharathi%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20AWS%20Cloud%20Learner&descAlignY=58&descSize=18" alt="header banner"/>
 
-Languages
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+scalable+full+stack+applications;Exploring+AI-powered+solutions;Learning+AWS+Cloud+every+day;Currently+building+VisionSpeak+AI+%F0%9F%91%81" alt="Typing SVG" />
+</p>
 
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/dhivyabharathi-n"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dhivyapillai2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://dhivyan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/DhivyabharathiCSE"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-Frontend
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DhivyabharathiCSE&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/DhivyabharathiCSE?label=Followers&style=flat-square&color=2E9EF7" alt="followers" />
+</p>
 
-<p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> </p>
+---
 
-Backend
+### 👩‍💻 About Me
 
-<p> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" /> </p>
+- 🎓 B.E. Computer Science Engineering (2023–2027) — V.S.B Engineering College, Karur — **CGPA: 7.9**
+- 💻 Full Stack Developer passionate about building scalable, real-world web applications
+- 🤖 Deeply interested in Artificial Intelligence & Machine Learning
+- ☁️ Currently learning AWS Cloud, System Design, Spring Security & Docker
+- 🌱 Currently building **VisionSpeak AI** — a smart vision assistant for the visually impaired
+- 💬 Ask me about **Java, React.js, Spring Boot, Python, Flask, MySQL, REST APIs**
+- 📫 Reach me at **dhivyapillai2005@gmail.com**
 
-Database
+---
 
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> </p>
+### 🛠️ Tech Stack
 
-Tools
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,python,javascript" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" /></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=spring,flask,nodejs,express,postman" /></td>
+</tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode" /></td>
+</tr>
+<tr>
+<td align="center"><b>Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws" /></td>
+</tr>
+</table>
 
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> </p>
+---
 
-Cloud
+### 🚀 Featured Projects
 
-<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> </p>
-🚀 Featured Projects
-<table> <tr> <td width="50%">
+<table>
+<tr>
+<td width="50%">
 
-🤖 AI Powered Personalized Learning Path Generator AI-driven platform generating personalized learning paths based on users' skills and career goals. React.js Spring Boot Python Flask MySQL
+**🤖 [AI Powered Personalized Learning Path Generator](#)**
+AI-driven platform generating personalized learning paths based on users' skills and career goals.
+`React.js` `Spring Boot` `Python Flask` `MySQL`
 
-</td> <td width="50%">
+</td>
+<td width="50%">
 
-👁 VisionSpeak AI Smart vision assistant for visually impaired users — image description, object detection, OCR, and voice output. React.js Spring Boot Flask Gemini Vision API ESP32-CAM MySQL
+**👁 [VisionSpeak AI](#)**
+Smart vision assistant for visually impaired users — image description, object detection, OCR, and voice output.
+`React.js` `Spring Boot` `Flask` `Gemini Vision API` `ESP32-CAM` `MySQL`
 
-</td> </tr> <tr> <td width="50%">
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-🩸 Smart Blood Donation & Emergency Request System Full-stack blood donation platform with JWT auth, donor registration, inventory tracking, and a Gemini AI chatbot. HTML CSS JS Node.js Express.js MySQL
+**🩸 [Smart Blood Donation & Emergency Request System](#)**
+Full-stack blood donation platform with JWT auth, donor registration, inventory tracking, and a Gemini AI chatbot.
+`HTML` `CSS` `JS` `Node.js` `Express.js` `MySQL`
 
-</td> <td width="50%">
+</td>
+<td width="50%">
 
-💬 Online Chatbot Ticketing System Customer support platform auto-generating tickets via chatbot interactions, with an admin dashboard. React.js Spring Boot MySQL
+**💬 [Online Chatbot Ticketing System](#)**
+Customer support platform auto-generating tickets via chatbot interactions, with an admin dashboard.
+`React.js` `Spring Boot` `MySQL`
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
-💡 Tip: Replace the # links above with your actual GitHub repo URLs so recruiters can click straight through.
+> 💡 Tip: Replace the `#` links above with your actual GitHub repo URLs so recruiters can click straight through.
 
-💼 Experience
+---
 
-Full Stack Development Intern — Livestream Technologies Built full stack web applications using React.js, Spring Boot, REST APIs, and MySQL in an Agile environment.
+### 💼 Experience
 
-Web Development Intern — Lets Game Tech Developed responsive web pages using HTML, CSS, and JavaScript.
+**Full Stack Development Intern** — *Livestream Technologies*
+Built full stack web applications using React.js, Spring Boot, REST APIs, and MySQL in an Agile environment.
 
-📜 Certifications
-✅ HackerRank SQL
-✅ Infosys – Programming in Java
-✅ Cisco – Cybersecurity Essentials
-✅ AWS Cloud Practitioner Essentials
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=DhivyabharathiCSE&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyabharathiCSE&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyabharathiCSE&theme=tokyonight&hide_border=true" /> </p>
-🎯 Career Objective
+**Web Development Intern** — *Lets Game Tech*
+Developed responsive web pages using HTML, CSS, and JavaScript.
+
+---
+
+### 📜 Certifications
+
+- ✅ HackerRank SQL
+- ✅ Infosys – Programming in Java
+- ✅ Cisco – Cybersecurity Essentials
+- ✅ AWS Cloud Practitioner Essentials
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DhivyabharathiCSE&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyabharathiCSE&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyabharathiCSE&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhivyabharathiCSE&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DhivyabharathiCSE/DhivyabharathiCSE/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</p>
+
+> ⚙️ The snake animation needs a one-time GitHub Actions setup. Ping me and I'll walk you through adding the workflow file — it auto-generates that SVG from your contribution graph.
+
+---
+
+### 🎯 Career Objective
 
 To secure a challenging software engineering role where I can apply my programming, AI, and cloud computing skills while continuously learning and contributing to innovative projects.
 
-📫 Connect with Me
-<p align="center"> <a href="https://linkedin.com/in/dhivyabharathi-n"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:dhivyapillai2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://dhivyan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p> <p align="center">⭐ Thanks for visiting my profile!</p>
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/dhivyabharathi-n"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dhivyapillai2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://dhivyan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2E9EF7&height=120&section=footer" alt="footer wave"/>
