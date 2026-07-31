@@ -63,42 +63,113 @@
 
 ### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<br>
 
-**🤖 [AI Powered Personalized Learning Path Generator](#)**
-AI-driven platform generating personalized learning paths based on users' skills and career goals.
-`React.js` `Spring Boot` `Python Flask` `MySQL`
+#### 🤖 AI Powered Personalized Learning Path Generator
 
-</td>
-<td width="50%">
+An AI-driven platform that analyzes a user's existing skills and career goals to generate a fully personalized learning roadmap — helping learners focus on what actually moves them toward their target role.
 
-**👁 [VisionSpeak AI](#)**
-Smart vision assistant for visually impaired users — image description, object detection, OCR, and voice output.
-`React.js` `Spring Boot` `Flask` `Gemini Vision API` `ESP32-CAM` `MySQL`
+**Key Highlights**
+- Goal-based path generation using AI recommendations
+- Skill-gap analysis to identify what to learn next
+- Clean, interactive dashboard to track progress
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Tech Stack**
+<p>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Python%20Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-**🩸 [Smart Blood Donation & Emergency Request System](#)**
-Full-stack blood donation platform with JWT auth, donor registration, inventory tracking, and a Gemini AI chatbot.
-`HTML` `CSS` `JS` `Node.js` `Express.js` `MySQL`
+🔗 **Repo:** [Add your GitHub repo link here](#)
 
-</td>
-<td width="50%">
+<br>
 
-**💬 [Online Chatbot Ticketing System](#)**
-Customer support platform auto-generating tickets via chatbot interactions, with an admin dashboard.
-`React.js` `Spring Boot` `MySQL`
+---
 
-</td>
-</tr>
-</table>
+<br>
 
-> 💡 Tip: Replace the `#` links above with your actual GitHub repo URLs so recruiters can click straight through.
+#### 👁 VisionSpeak AI — Smart Vision Assistant for the Visually Impaired
+
+An AI-powered assistive system that helps visually impaired users understand their surroundings through real-time image description, object detection, text reading, and voice output — combining computer vision with hardware integration.
+
+**Key Highlights**
+- Real-time image description powered by Gemini Vision API
+- Object detection to identify surroundings
+- OCR-based text reading for signs, labels, and documents
+- Voice output for accessible, hands-free interaction
+- ESP32-CAM integration for live camera input
+
+**Tech Stack**
+<p>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Python%20Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20Vision%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+🔗 **Repo:** [Add your GitHub repo link here](#)
+
+<br>
+
+---
+
+<br>
+
+#### 🩸 Smart Blood Donation & Emergency Request System
+
+A full-stack platform that connects blood donors with those in urgent need, streamlining donor registration, blood requests, and inventory management — with an AI chatbot for instant support.
+
+**Key Highlights**
+- JWT-based secure authentication
+- Donor registration and searchable donor database
+- Real-time blood request and inventory tracking
+- Donation camp scheduling and management
+- Google Gemini AI chatbot for donor queries and support
+
+**Tech Stack**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+🔗 **Repo:** [Add your GitHub repo link here](#)
+
+<br>
+
+---
+
+<br>
+
+#### 💬 Online Chatbot Ticketing System
+
+A customer support platform where a chatbot interacts with users and automatically generates support tickets, reducing manual intervention and speeding up issue resolution.
+
+**Key Highlights**
+- Automated ticket generation from chatbot conversations
+- Admin dashboard for ticket tracking and management
+- Secure user authentication
+
+**Tech Stack**
+<p>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+🔗 **Repo:** [Add your GitHub repo link here](#)
+
+<br>
+
+> 💡 Replace each `Add your GitHub repo link here` with the actual repo URL so recruiters can click straight through to your code.
 
 ---
 
