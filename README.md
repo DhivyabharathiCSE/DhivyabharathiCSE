@@ -133,21 +133,25 @@ An AI-driven platform that analyzes a user's existing skills and career goals to
 
 <br>
 
-#### Online Chatbot Ticketing System
+#### SecureLens — Intelligent Web Threat Analysis & Phishing Detection Platform
 
-A customer support platform where a chatbot automatically converts user conversations into support tickets, removing the manual triage step between a user query and an actionable ticket.
+A full-stack security platform that analyzes URLs and web content to flag phishing and web-based threats in real time, pairing a Spring Security-hardened backend with a lightweight, framework-free React frontend.
 
 **Key Highlights**
-- Automated ticket generation directly from chatbot conversations
-- Admin dashboard for ticket tracking and management
-- Secure user authentication
+- Real-time web threat and phishing analysis pipeline
+- JWT-based authentication with BCrypt password hashing
+- Secured API layer built on Spring Security 6
 
-**Tech Stack**
-<p>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+**Key Technologies**
+
+| Layer      | Technology                    |
+|------------|-------------------------------|
+| Frontend   | React 18, React Router 6, Axios |
+| Styling    | Pure CSS (no framework)       |
+| Backend    | Spring Boot 3.2, Java 17      |
+| Auth       | JWT (jjwt 0.11.5), BCrypt     |
+| Database   | MySQL 8 + Spring Data JPA     |
+| Security   | Spring Security 6             |
 
 🔗 **Repo:** [ADD_REPO_LINK_HERE](#)
 
