@@ -180,15 +180,6 @@ Developed responsive web pages using HTML, CSS, and JavaScript.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DhivyabharathiCSE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&border_color=30363D" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyabharathiCSE&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=30363D" />
-</p>
-
----
-
 ### What I'm Aiming For
 
 Looking to grow into a role building AI-integrated full stack systems — combining practical software engineering with applied AI, and continuing to build toward AWS Cloud proficiency along the way.
