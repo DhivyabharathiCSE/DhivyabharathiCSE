@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Dhivyabharathi%20N&fontSize=44&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20AWS%20Cloud%20Learner&descAlignY=58&descSize=16&descColor=8B949E" alt="header banner"/>
+<img width="100%" src="profile-banner.png" alt="header banner"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/dhivyabharathi-n"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
@@ -6,6 +6,15 @@
   <a href="https://dhivyan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
   <a href="https://github.com/DhivyabharathiCSE"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
 </p>
+
+```bash
+$ whoami
+> Dhivyabharathi N — Full Stack Developer | AI Enthusiast | AWS Cloud Learner
+
+$ cat current_focus.txt
+> Building AI-integrated full stack systems, securing them properly, and
+> leveling up on AWS Cloud along the way.
+```
 
 ---
 
@@ -177,6 +186,14 @@ Developed responsive web pages using HTML, CSS, and JavaScript.
 - Infosys – Programming in Java
 - Cisco – Cybersecurity Essentials
 - AWS Cloud Practitioner Essentials
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DhivyabharathiCSE/DhivyabharathiCSE/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</p>
 
 ---
 
