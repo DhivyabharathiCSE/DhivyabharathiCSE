@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DB33F&height=200&section=header&text=Dhivyabharathi%20N&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20AWS%20Cloud%20Learner&descAlignY=58&descSize=16" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Dhivyabharathi%20N&fontSize=44&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20AWS%20Cloud%20Learner&descAlignY=58&descSize=16&descColor=8B949E" alt="header banner"/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dhivyabharathi-n"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhivyapillai2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://dhivyan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/DhivyabharathiCSE"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dhivyabharathi-n"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
+  <a href="mailto:dhivyapillai2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
+  <a href="https://dhivyan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
+  <a href="https://github.com/DhivyabharathiCSE"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
 </p>
 
 ---
@@ -23,27 +23,27 @@
 <table align="center">
 <tr>
 <td align="center"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=java,python,javascript" /></td>
+<td><img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=spring,flask,nodejs,express,postman" /></td>
+<td><img src="https://skillicons.dev/icons?i=spring,flask,nodejs,express,postman&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=mysql" /></td>
+<td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws" /></td>
+<td><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></td>
 </tr>
 </table>
 
@@ -66,63 +66,11 @@ A wearable, AI-powered assistive system that helps visually impaired users under
 
 **Tech Stack**
 <p>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Python%20Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-🔗 **Repo:** [ADD_REPO_LINK_HERE](#)
-
-<br>
-
----
-
-<br>
-
-#### Smart Blood Donation & Emergency Request System
-
-A full-stack platform connecting blood donors with those in urgent need — cutting the manual coordination typically required to match a donor to a request down to a searchable, real-time lookup, backed by an AI chatbot for instant donor support.
-
-**Key Highlights**
-- JWT-based secure authentication
-- Searchable donor database with real-time request and inventory tracking
-- Donation camp scheduling and management
-- Google Gemini AI chatbot handling donor queries without manual staff intervention
-
-**Tech Stack**
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-🔗 **Repo:** [ADD_REPO_LINK_HERE](#)
-
-<br>
-
----
-
-<br>
-
-#### AI Powered Personalized Learning Path Generator
-
-An AI-driven platform that analyzes a user's existing skills and career goals to generate a personalized learning roadmap, replacing generic course lists with a path targeted at the learner's specific target role.
-
-**Key Highlights**
-- Goal-based path generation using AI recommendations
-- Skill-gap analysis to identify what to learn next
-- Interactive dashboard to track progress toward the target role
-
-**Tech Stack**
-<p>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Python%20Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Python%20Flask-0D1117?style=flat-square&logo=flask&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/ESP32--CAM-0D1117?style=flat-square&logo=espressif&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00E5FF" />
 </p>
 
 🔗 **Repo:** [ADD_REPO_LINK_HERE](#)
@@ -157,6 +105,58 @@ A full-stack security platform that analyzes URLs and web content to flag phishi
 
 <br>
 
+---
+
+<br>
+
+#### Smart Blood Donation & Emergency Request System
+
+A full-stack platform connecting blood donors with those in urgent need — cutting the manual coordination typically required to match a donor to a request down to a searchable, real-time lookup, backed by an AI chatbot for instant donor support.
+
+**Key Highlights**
+- JWT-based secure authentication
+- Searchable donor database with real-time request and inventory tracking
+- Donation camp scheduling and management
+- Google Gemini AI chatbot handling donor queries without manual staff intervention
+
+**Tech Stack**
+<p>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00E5FF" />
+</p>
+
+🔗 **Repo:** [ADD_REPO_LINK_HERE](#)
+
+<br>
+
+---
+
+<br>
+
+#### AI Powered Personalized Learning Path Generator
+
+An AI-driven platform that analyzes a user's existing skills and career goals to generate a personalized learning roadmap, replacing generic course lists with a path targeted at the learner's specific target role.
+
+**Key Highlights**
+- Goal-based path generation using AI recommendations
+- Skill-gap analysis to identify what to learn next
+- Interactive dashboard to track progress toward the target role
+
+**Tech Stack**
+<p>
+<img src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Python%20Flask-0D1117?style=flat-square&logo=flask&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00E5FF" />
+</p>
+
+🔗 **Repo:** [ADD_REPO_LINK_HERE](#)
+
+<br>
+
 > ⚠️ Replace every `ADD_REPO_LINK_HERE` with the real GitHub URL before publishing — a placeholder link is the fastest way to lose a recruiter's trust.
 
 ---
@@ -183,8 +183,8 @@ Developed responsive web pages using HTML, CSS, and JavaScript.
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DhivyabharathiCSE&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyabharathiCSE&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DhivyabharathiCSE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&border_color=30363D" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyabharathiCSE&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=30363D" />
 </p>
 
 ---
@@ -198,9 +198,9 @@ Looking to grow into a role building AI-integrated full stack systems — combin
 ### Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/dhivyabharathi-n"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhivyapillai2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://dhivyan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dhivyabharathi-n"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
+  <a href="mailto:dhivyapillai2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
+  <a href="https://dhivyan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2E9EF7&height=110&section=footer" alt="footer wave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=110&section=footer" alt="footer wave"/>
