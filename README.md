@@ -62,7 +62,7 @@ $ cat current_focus.txt
 
 <br>
 
-#### VisionSpeak AI — Smart Vision Assistant for the Visually Impaired
+### VisionSpeak AI — Smart Vision Assistant for the Visually Impaired
 
 A wearable, AI-powered assistive system that helps visually impaired users understand their surroundings in real time — combining an ESP32-CAM feed with object detection, OCR, and voice output, plus an independent ultrasonic obstacle alert so safety warnings never wait on network or inference latency.
 
@@ -82,7 +82,6 @@ A wearable, AI-powered assistive system that helps visually impaired users under
 <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00E5FF" />
 </p>
 
-🔗 **Repo:** [ADD_REPO_LINK_HERE](#)
 
 <br>
 
@@ -90,7 +89,7 @@ A wearable, AI-powered assistive system that helps visually impaired users under
 
 <br>
 
-#### SecureLens — Intelligent Web Threat Analysis & Phishing Detection Platform
+### SecureLens — Intelligent Web Threat Analysis & Phishing Detection Platform
 
 A full-stack security platform that analyzes URLs and web content to flag phishing and web-based threats in real time, pairing a Spring Security-hardened backend with a lightweight, framework-free React frontend.
 
@@ -110,7 +109,6 @@ A full-stack security platform that analyzes URLs and web content to flag phishi
 | Database   | MySQL 8 + Spring Data JPA     |
 | Security   | Spring Security 6             |
 
-🔗 **Repo:** [ADD_REPO_LINK_HERE](#)
 
 <br>
 
@@ -118,7 +116,7 @@ A full-stack security platform that analyzes URLs and web content to flag phishi
 
 <br>
 
-#### Smart Blood Donation & Emergency Request System
+### Smart Blood Donation & Emergency Request System
 
 A full-stack platform connecting blood donors with those in urgent need — cutting the manual coordination typically required to match a donor to a request down to a searchable, real-time lookup, backed by an AI chatbot for instant donor support.
 
@@ -137,7 +135,6 @@ A full-stack platform connecting blood donors with those in urgent need — cutt
 <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00E5FF" />
 </p>
 
-🔗 **Repo:** [ADD_REPO_LINK_HERE](#)
 
 <br>
 
@@ -145,7 +142,7 @@ A full-stack platform connecting blood donors with those in urgent need — cutt
 
 <br>
 
-#### AI Powered Personalized Learning Path Generator
+### AI Powered Personalized Learning Path Generator
 
 An AI-driven platform that analyzes a user's existing skills and career goals to generate a personalized learning roadmap, replacing generic course lists with a path targeted at the learner's specific target role.
 
@@ -162,11 +159,9 @@ An AI-driven platform that analyzes a user's existing skills and career goals to
 <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00E5FF" />
 </p>
 
-🔗 **Repo:** [ADD_REPO_LINK_HERE](#)
 
 <br>
 
-> ⚠️ Replace every `ADD_REPO_LINK_HERE` with the real GitHub URL before publishing — a placeholder link is the fastest way to lose a recruiter's trust.
 
 ---
 
